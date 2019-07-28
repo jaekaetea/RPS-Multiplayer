@@ -1,5 +1,10 @@
 # Unit 7 Assignment - Rock Paper Scissors (Challenge)
 
+Play here: https://jaekaetea.github.io/RPS-Multiplayer/.
+
+Replicated solution and adjusted logic as the outcome only would show once.
+. . .Also made it blue.  Because. . . Who doesn't love blue?
+
 **_RPS? Again?! What?!!_**
 
 ### Overview
